@@ -66,7 +66,7 @@ The analysis pipeline runs multiple experiments across different network sizes a
 python3 node.py --port 9000 --fanout 3 --ttl 8 --peer-limit 20 --ping-interval 2 --peer-timeout 6 --seed 42
 ```
 
-### To join via a seed/bootstrap node:
+### To join via a seed/bootstrap node
 ```bash
 python3 node.py --port 9001 --bootstrap 127.0.0.1:9000
 ```
