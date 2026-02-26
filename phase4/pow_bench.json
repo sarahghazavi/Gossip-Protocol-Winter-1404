@@ -1,0 +1,117 @@
+{
+  "machine_note": "Run on my laptop/PC (fill CPU model in report)",
+  "timestamp": 1771829377.4102788,
+  "results": [
+    {
+      "pow_k": 3,
+      "trials": 15,
+      "time_mean_s": 0.0028518082667384685,
+      "time_std_s": 0.0022608487741232566,
+      "time_min_s": 0.00023612400036654435,
+      "time_max_s": 0.007226474001072347,
+      "tries_mean": 2868.266666666667,
+      "tries_min": 264,
+      "tries_max": 7880,
+      "samples": [
+        {
+          "trial": 0,
+          "node_id": "5446caf5-56a2-4c5c-95fb-eac2c020383d",
+          "nonce": 3679,
+          "digest_hex": "00058e7e008a2e32abfbc529a87d67b86e5fd1f489e8bab2c132b547794a0be8",
+          "time_s": 0.005051415999332676,
+          "tries": 3680
+        },
+        {
+          "trial": 1,
+          "node_id": "d71324f8-d956-462d-afd8-bdd3e0e0a364",
+          "nonce": 101013,
+          "digest_hex": "00015dedcfad5283c88840fb364553b06ff045c08923ec2527b0dfebb047cb75",
+          "time_s": 0.0013089479998598108,
+          "tries": 1014
+        },
+        {
+          "trial": 2,
+          "node_id": "7a4e6832-ce94-4232-9c83-ab9f71cc3825",
+          "nonce": 203575,
+          "digest_hex": "0004750ecc370abc8caafc97ce6d81105c43a91b98fbb0c34f045876d4638109",
+          "time_s": 0.003585770999052329,
+          "tries": 3576
+        }
+      ]
+    },
+    {
+      "pow_k": 4,
+      "trials": 15,
+      "time_mean_s": 0.11026917093331576,
+      "time_std_s": 0.12226133269331971,
+      "time_min_s": 0.001594438999745762,
+      "time_max_s": 0.40790412000023935,
+      "tries_mean": 98379.93333333333,
+      "tries_min": 1786,
+      "tries_max": 358896,
+      "samples": [
+        {
+          "trial": 0,
+          "node_id": "2fd0c831-59cd-40f0-adf6-c6931cfec7fa",
+          "nonce": 19021,
+          "digest_hex": "0000b22c94274fc1976776675d7930b0bb57853688211561e0530113f1ce6466",
+          "time_s": 0.020084460000362014,
+          "tries": 19022
+        },
+        {
+          "trial": 1,
+          "node_id": "72642bc8-4621-40c8-9b55-2fa5e5b9fa10",
+          "nonce": 132720,
+          "digest_hex": "0000028c341ad572860b9b66b4704156371990fa5ed8d2864d4556c283a6e1cb",
+          "time_s": 0.029428399000607897,
+          "tries": 32721
+        },
+        {
+          "trial": 2,
+          "node_id": "2e4c2e0b-ebf7-486e-822e-451bdcd27a90",
+          "nonce": 231885,
+          "digest_hex": "00007a3e006101401161593f2b5e0020a2e88964f4e0f14c789cce8931c034b2",
+          "time_s": 0.03185814500102424,
+          "tries": 31886
+        }
+      ]
+    },
+    {
+      "pow_k": 5,
+      "trials": 15,
+      "time_mean_s": 1.0223260173335196,
+      "time_std_s": 0.8490418197125168,
+      "time_min_s": 0.08116263200099638,
+      "time_max_s": 2.5612455980008235,
+      "tries_mean": 1004220.0666666667,
+      "tries_min": 84576,
+      "tries_max": 2636588,
+      "samples": [
+        {
+          "trial": 0,
+          "node_id": "1f16df1d-1fb8-4205-b5ed-55fe81d295f7",
+          "nonce": 1788949,
+          "digest_hex": "00000af3c21a04c95ffaa1e27e2bdfbdd0a7e04ad9a6cadced97184d26846afb",
+          "time_s": 1.9542173009995167,
+          "tries": 1788950
+        },
+        {
+          "trial": 1,
+          "node_id": "f53b5450-b795-4582-b9e5-71fa9455bee8",
+          "nonce": 1511647,
+          "digest_hex": "000002b8ce1c54cf04877cc5c51b1a29ddcaae4103c177d36e8c5a70e0376b14",
+          "time_s": 1.4452254449988686,
+          "tries": 1411648
+        },
+        {
+          "trial": 2,
+          "node_id": "f779570e-604b-41e3-b712-10c3593529a6",
+          "nonce": 2403898,
+          "digest_hex": "000005b555e3790cb41bf34efeb784f38fafcf4dda1fe5c3c1109836b27d01de",
+          "time_s": 2.2409332820006966,
+          "tries": 2203899
+        }
+      ]
+    }
+  ]
+}

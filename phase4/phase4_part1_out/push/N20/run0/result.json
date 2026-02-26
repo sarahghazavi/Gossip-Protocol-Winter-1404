@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "created_id": "01da47f0-b975-42f4-81d3-b65aa9fc90b7",
+  "t0": 1771953177210,
+  "t95": 1771953177236,
+  "convergence_ms": 26,
+  "overhead": 56,
+  "overhead_by_type": {
+    "GOSSIP": 45,
+    "PONG": 5,
+    "PING": 3,
+    "GET_PEERS": 2,
+    "PEERS_LIST": 1
+  },
+  "bucket_gossip": 45,
+  "bucket_pull": 0,
+  "bucket_control_base": 11,
+  "delivered": 20,
+  "need": 19
+}

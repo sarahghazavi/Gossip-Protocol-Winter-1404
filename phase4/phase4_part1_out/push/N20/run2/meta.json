@@ -1,0 +1,21 @@
+{
+  "n": 20,
+  "mode": "push",
+  "run_idx": 2,
+  "base_port": 60800,
+  "warmup_s": 7.0,
+  "max_wait_s": 120.0,
+  "cfg": {
+    "fanout": 3,
+    "ttl": 8,
+    "peer_limit": 35,
+    "ping_interval": 1.0,
+    "peer_timeout": 4.0,
+    "get_peers_interval": 2.0,
+    "get_peers_fanout": 4,
+    "pull_interval": 1.0,
+    "pull_fanout": 4,
+    "ihave_max_ids": 32,
+    "pow_k": 0
+  }
+}

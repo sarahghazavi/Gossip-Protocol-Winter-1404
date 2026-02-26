@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "created_id": "57fd3753-fc81-4fbf-9eb7-5028fb7e2533",
+  "t0": 1771953138784,
+  "t95": 1771953138794,
+  "convergence_ms": 10,
+  "overhead": 23,
+  "overhead_by_type": {
+    "GOSSIP": 23
+  },
+  "bucket_gossip": 23,
+  "bucket_pull": 0,
+  "bucket_control_base": 0,
+  "delivered": 10,
+  "need": 10
+}

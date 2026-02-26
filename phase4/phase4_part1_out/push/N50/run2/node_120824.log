@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/mnt/c/users/asus/Downloads/Telegram Desktop/node.py", line 1429, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+    return future.result()
+  File "/mnt/c/users/asus/Downloads/Telegram Desktop/node.py", line 1406, in main
+    transport, _ = await loop.create_datagram_endpoint(
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1369, in create_datagram_endpoint
+    sock.bind(local_address)
+OverflowError: bind(): port must be 0-65535.

@@ -1,0 +1,3 @@
+{"ts_ms": 1771938469293, "node_id": "cdb13890-d6d7-44c6-ba14-e13920d6414a", "self": "127.0.0.1:9004", "event": "node_started", "port": 9004, "bootstrap": "127.0.0.1:9000"}
+{"ts_ms": 1771938469293, "node_id": "cdb13890-d6d7-44c6-ba14-e13920d6414a", "self": "127.0.0.1:9004", "event": "send", "to": "127.0.0.1:9000", "msg_type": "HELLO", "msg_id": "0345c434-6791-4c27-8a93-65345cad6773"}
+{"ts_ms": 1771938469293, "node_id": "cdb13890-d6d7-44c6-ba14-e13920d6414a", "self": "127.0.0.1:9004", "event": "send", "to": "127.0.0.1:9000", "msg_type": "GET_PEERS", "msg_id": "f895494d-ac22-47b4-a98b-e4402d50bf9c"}

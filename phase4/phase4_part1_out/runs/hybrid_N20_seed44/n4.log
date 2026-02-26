@@ -1,0 +1,202 @@
+{"ts_ms": 1771997701132, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "node_started", "port": 13004, "bootstrap": "127.0.0.1:13000", "mode": "hybrid", "pow_k": 0}
+{"ts_ms": 1771997701133, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13000", "peer_id": null}
+{"ts_ms": 1771997701136, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "HELLO", "msg_id": "a01445e7-b45c-47a4-ae52-7d56b3b06728"}
+{"ts_ms": 1771997701138, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "GET_PEERS", "msg_id": "89e59fc3-bfda-447a-ab25-26ece85c5ea0"}
+{"ts_ms": 1771997701151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "PEERS_LIST", "msg_id": "ede8ae13-8e66-49dc-8ee2-2771c8dc79b9"}
+{"ts_ms": 1771997701152, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13002", "peer_id": "b4d945a5-7bc2-4965-b2c6-47a292250b2c"}
+{"ts_ms": 1771997701153, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13003", "peer_id": "61714f8c-18eb-4a32-b98e-93a409db8525"}
+{"ts_ms": 1771997701842, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "GET_PEERS", "msg_id": "23a57a6e-66c2-45b9-9248-c9888e954772"}
+{"ts_ms": 1771997701843, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "GET_PEERS", "msg_id": "38f98b96-a1d4-4673-89b5-4252468ef0a4"}
+{"ts_ms": 1771997701845, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13003", "msg_type": "GET_PEERS", "msg_id": "4758c361-3913-4573-877c-090a2c6d8340"}
+{"ts_ms": 1771997701846, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "PEERS_LIST", "msg_id": "c5cb4bc9-9d50-4f4e-b26e-2f92a68bbbc8"}
+{"ts_ms": 1771997701847, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13015", "peer_id": "bf611a4d-f353-4bdc-b9e3-0b21a27f7347"}
+{"ts_ms": 1771997701847, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13010", "peer_id": "fc9582bd-0528-463c-8a7a-44b6bbcf1ee5"}
+{"ts_ms": 1771997701848, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13019", "peer_id": "0e762f8a-eaf6-430e-8003-978ee40bf9a1"}
+{"ts_ms": 1771997701848, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13008", "peer_id": "4b3105d7-1ce2-4913-b575-21c15c52295c"}
+{"ts_ms": 1771997701849, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13005", "peer_id": "3cb49ad7-ad10-4e7f-9fe8-dc1f35493524"}
+{"ts_ms": 1771997701849, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13006", "peer_id": "d6fb7e00-f939-4b9a-a119-d32f598986a8"}
+{"ts_ms": 1771997701850, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13017", "peer_id": "bb9e927e-bd00-4913-8a9d-ab88d6de1955"}
+{"ts_ms": 1771997701850, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13013", "peer_id": "6a35def0-0ae0-455e-b54f-b0b1db717645"}
+{"ts_ms": 1771997701851, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13014", "peer_id": "9eebbbb6-5b85-40d9-9cfa-5e6d4f7e9ac6"}
+{"ts_ms": 1771997701852, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13001", "peer_id": "ebced682-53fe-4722-8ec3-706baddaae4c"}
+{"ts_ms": 1771997701858, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13011", "peer_id": "22f7f53d-15d3-4c7d-a0ac-c058fd1680c7"}
+{"ts_ms": 1771997701864, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13018", "peer_id": "4ae884fe-f862-40e8-a8ab-f4dd2c2fdc91"}
+{"ts_ms": 1771997701869, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13012", "peer_id": "9a4d2499-a301-4c2a-b6e4-902362a40129"}
+{"ts_ms": 1771997701870, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13007", "peer_id": "39562388-7d17-483a-8a51-96f94fd271c6"}
+{"ts_ms": 1771997701872, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13009", "peer_id": "0c36ecd4-7652-4469-b669-27ea8d7906aa"}
+{"ts_ms": 1771997701872, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "peer_added", "peer": "127.0.0.1:13016", "peer_id": "045be1e6-d24e-4ac4-a21a-c1af437313a8"}
+{"ts_ms": 1771997701874, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13002", "msg_type": "PEERS_LIST", "msg_id": "250153c4-926d-4368-bbd4-3e86d88f189e"}
+{"ts_ms": 1771997701875, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13005", "msg_type": "GET_PEERS", "msg_id": "4ae222d1-7e5d-4742-9c6b-1bac16715abf"}
+{"ts_ms": 1771997701876, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13005", "msg_type": "PEERS_LIST", "msg_id": "788d33ae-cd52-42a6-bbe7-91c4b2d5f4a4"}
+{"ts_ms": 1771997701878, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13003", "msg_type": "PEERS_LIST", "msg_id": "5725a584-f5a6-42c2-a712-1c69fdb25852"}
+{"ts_ms": 1771997701907, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13007", "msg_type": "GET_PEERS", "msg_id": "8e9e232b-cdfa-4f6d-a5a1-c9df65262aae"}
+{"ts_ms": 1771997701907, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13007", "msg_type": "PEERS_LIST", "msg_id": "5fea6fb0-c8fa-46fb-9bed-f8ef6734ba5f"}
+{"ts_ms": 1771997701929, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13009", "msg_type": "GET_PEERS", "msg_id": "eb7955fd-2ef9-46ec-b5bd-7530d089945a"}
+{"ts_ms": 1771997701930, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13009", "msg_type": "PEERS_LIST", "msg_id": "d8c81b04-bf7b-4045-b13a-a097dc54c67d"}
+{"ts_ms": 1771997701985, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13011", "msg_type": "GET_PEERS", "msg_id": "8d95829d-8489-4c93-90bb-a8796fe70ce0"}
+{"ts_ms": 1771997701986, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13011", "msg_type": "PEERS_LIST", "msg_id": "00a7d493-98c8-4ca6-adfb-5ca6418a0aaa"}
+{"ts_ms": 1771997702003, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13013", "msg_type": "GET_PEERS", "msg_id": "4a243899-d0e5-4838-9a17-0f744cdd1209"}
+{"ts_ms": 1771997702004, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13013", "msg_type": "PEERS_LIST", "msg_id": "547b3bc3-75a9-44af-94d7-154d9d95e5c4"}
+{"ts_ms": 1771997702020, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13016", "msg_type": "GET_PEERS", "msg_id": "2c620d4f-2e85-4829-9241-c1f24b31891c"}
+{"ts_ms": 1771997702022, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13016", "msg_type": "PEERS_LIST", "msg_id": "9fbbb8fb-a183-4aef-8e73-de9e8a0d9a69"}
+{"ts_ms": 1771997702030, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13017", "msg_type": "GET_PEERS", "msg_id": "e01b0d41-b6dc-49fd-b8ab-708ca9d52064"}
+{"ts_ms": 1771997702030, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13017", "msg_type": "PEERS_LIST", "msg_id": "9ccbd162-5fad-4c5a-9026-6fb18c76703e"}
+{"ts_ms": 1771997702078, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "PING", "msg_id": "a0d84775-558e-4aed-bd0c-0cf2cf168318"}
+{"ts_ms": 1771997702079, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "PONG", "msg_id": "c6afa26a-5443-45e2-8a61-e61b288339ad"}
+{"ts_ms": 1771997702110, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13002", "msg_type": "PING", "msg_id": "d60d9f21-12a6-4d2d-a753-e311cf3cffb4"}
+{"ts_ms": 1771997702114, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "PONG", "msg_id": "4ea5b820-1c4c-41f6-afa5-3177a07621e3"}
+{"ts_ms": 1771997702144, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "PING", "msg_id": "9bd9613a-4884-45e0-8875-9e7dccb51e1c"}
+{"ts_ms": 1771997702145, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13012", "msg_type": "PING", "msg_id": "e8817d4e-5cdc-4f6f-9113-d24245a80411"}
+{"ts_ms": 1771997702145, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13009", "msg_type": "PING", "msg_id": "5573f609-e6a0-4981-93a7-fabf94c02f59"}
+{"ts_ms": 1771997702147, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13010", "msg_type": "PONG", "msg_id": "5cf384df-aec5-45c9-b800-836cc6211682"}
+{"ts_ms": 1771997702148, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13010", "rtt_ms": 4}
+{"ts_ms": 1771997702149, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13012", "msg_type": "PONG", "msg_id": "cb7d751e-6fc4-4b8e-9f7d-c22aeb45728d"}
+{"ts_ms": 1771997702150, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13012", "rtt_ms": 5}
+{"ts_ms": 1771997702151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13009", "msg_type": "PONG", "msg_id": "17b3ae05-3cb2-4de4-8ba6-18e536fee5ce"}
+{"ts_ms": 1771997702151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13009", "rtt_ms": 6}
+{"ts_ms": 1771997702154, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13005", "msg_type": "PING", "msg_id": "b0a3a78b-db40-4fe1-b537-b7e6beb6e343"}
+{"ts_ms": 1771997702155, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13005", "msg_type": "PONG", "msg_id": "b6b61ac3-1e4f-4596-a20e-942b5c40bb4b"}
+{"ts_ms": 1771997702287, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13011", "msg_type": "PING", "msg_id": "9d27e7ff-3348-4e1c-b5cf-91e585d9bf0a"}
+{"ts_ms": 1771997702289, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13011", "msg_type": "PONG", "msg_id": "11178da3-873c-4fc6-8976-a14b8ec69938"}
+{"ts_ms": 1771997702547, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13005", "msg_type": "GET_PEERS", "msg_id": "70e5b368-65b5-4988-a325-c604df259582"}
+{"ts_ms": 1771997702548, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13013", "msg_type": "GET_PEERS", "msg_id": "764dac2e-816a-4627-ac8d-11ff9640f234"}
+{"ts_ms": 1771997702552, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13015", "msg_type": "GET_PEERS", "msg_id": "803733de-8d01-4b53-b2c9-697d4df382c1"}
+{"ts_ms": 1771997702553, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13019", "msg_type": "GET_PEERS", "msg_id": "701fc9dc-7144-453a-995a-14d5d1912e29"}
+{"ts_ms": 1771997702553, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13005", "msg_type": "PEERS_LIST", "msg_id": "10c2d121-d98c-4be7-9f88-15192a0f63f4"}
+{"ts_ms": 1771997702554, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13013", "msg_type": "PEERS_LIST", "msg_id": "917d70b0-1935-4884-a878-e54962feee5f"}
+{"ts_ms": 1771997702555, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13015", "msg_type": "PEERS_LIST", "msg_id": "5b1b0abf-36fb-4e76-83d8-761fa70d65dc"}
+{"ts_ms": 1771997702556, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13019", "msg_type": "PEERS_LIST", "msg_id": "e65e85e5-d1a5-4f7a-9b35-dec5959582bf"}
+{"ts_ms": 1771997702632, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13009", "msg_type": "GET_PEERS", "msg_id": "2416c367-910d-4732-9e77-8b10c3e90339"}
+{"ts_ms": 1771997702633, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13009", "msg_type": "PEERS_LIST", "msg_id": "e3c347b6-3a98-4b26-bfb4-85e951fdb2ff"}
+{"ts_ms": 1771997702704, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13014", "msg_type": "GET_PEERS", "msg_id": "c2e991e8-f5cb-4fc5-a9c3-7d53ba9d413c"}
+{"ts_ms": 1771997702705, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "PEERS_LIST", "msg_id": "ade7b263-948c-44e0-8d53-ace7b86d96af"}
+{"ts_ms": 1771997703077, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13001", "msg_type": "PING", "msg_id": "fb659bd6-9d03-4941-939b-1fae6b14941b"}
+{"ts_ms": 1771997703078, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13001", "msg_type": "PONG", "msg_id": "9c5dd21b-3468-41d1-bbb8-adede7294ea6"}
+{"ts_ms": 1771997703118, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13002", "msg_type": "PING", "msg_id": "18dc1d7e-c396-4591-80e1-a8b5647d8368"}
+{"ts_ms": 1771997703119, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "PONG", "msg_id": "f5ff7148-0bc4-44f0-b0ae-686310575d5b"}
+{"ts_ms": 1771997703148, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13009", "msg_type": "PING", "msg_id": "463eeb88-2cef-402a-9a93-6def7532ee76"}
+{"ts_ms": 1771997703149, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13005", "msg_type": "PING", "msg_id": "1cc97b1d-2f53-4a8b-96c9-43a4190edaf5"}
+{"ts_ms": 1771997703150, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PING", "msg_id": "19b88c31-fac7-4e01-8d04-f78b1d61cc94"}
+{"ts_ms": 1771997703151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13009", "msg_type": "PONG", "msg_id": "c80f7b79-aff4-4428-bcdd-e5793d2883ee"}
+{"ts_ms": 1771997703151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13009", "rtt_ms": 3}
+{"ts_ms": 1771997703152, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13005", "msg_type": "PONG", "msg_id": "0e1c9c15-6281-4aab-acd9-f179bbd0154c"}
+{"ts_ms": 1771997703152, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13005", "rtt_ms": 3}
+{"ts_ms": 1771997703153, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13008", "msg_type": "PONG", "msg_id": "e37f5383-f783-4090-9044-3e53bb2f6bed"}
+{"ts_ms": 1771997703153, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13008", "rtt_ms": 3}
+{"ts_ms": 1771997703217, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13002", "msg_type": "GET_PEERS", "msg_id": "55fe2336-5f48-422b-a92a-d73de8c96faa"}
+{"ts_ms": 1771997703218, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "PEERS_LIST", "msg_id": "3e711049-a18a-42cb-aecd-8b97e3582107"}
+{"ts_ms": 1771997703221, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13007", "msg_type": "PING", "msg_id": "2d07cec0-7f16-42ef-a43e-74062fd667fa"}
+{"ts_ms": 1771997703222, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13007", "msg_type": "PONG", "msg_id": "24a18f1d-64f8-406a-84eb-ba7b82912f44"}
+{"ts_ms": 1771997703229, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13010", "msg_type": "PING", "msg_id": "2539b469-eb05-4476-bca9-5dd2e58d7906"}
+{"ts_ms": 1771997703230, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "PONG", "msg_id": "e09d2169-f169-40d4-9213-e80f7e9987c6"}
+{"ts_ms": 1771997703235, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13008", "msg_type": "PING", "msg_id": "e3f5e3f9-298f-4022-9300-608ff9b335d4"}
+{"ts_ms": 1771997703236, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PONG", "msg_id": "2e639c0e-14d5-4bbb-b09a-a335f14eec62"}
+{"ts_ms": 1771997703254, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "GET_PEERS", "msg_id": "f34bbbc3-4496-4875-bc09-24e5b3ef3dfe"}
+{"ts_ms": 1771997703255, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13018", "msg_type": "GET_PEERS", "msg_id": "4c069e4d-a7aa-4f99-b8d4-125c102c24b3"}
+{"ts_ms": 1771997703256, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13007", "msg_type": "GET_PEERS", "msg_id": "6db7a7a2-a0bc-4274-9183-e5b8312728fc"}
+{"ts_ms": 1771997703257, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13016", "msg_type": "GET_PEERS", "msg_id": "fd21c85b-bf33-4380-950c-090c20cff44c"}
+{"ts_ms": 1771997703259, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "PEERS_LIST", "msg_id": "61ce0902-d1c3-4148-9bd4-d507a23b970c"}
+{"ts_ms": 1771997703260, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13018", "msg_type": "PEERS_LIST", "msg_id": "6fc5e469-bfc7-4462-afce-f6eb1db8fd1a"}
+{"ts_ms": 1771997703260, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13007", "msg_type": "PEERS_LIST", "msg_id": "cef7a093-efd5-42c1-b68f-e22b4f8f30aa"}
+{"ts_ms": 1771997703261, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13016", "msg_type": "PEERS_LIST", "msg_id": "28605f50-4e31-43a5-98ed-b4e01f595df1"}
+{"ts_ms": 1771997703333, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13010", "msg_type": "GET_PEERS", "msg_id": "0b27f218-a74e-46a1-90fb-c4a823a1f91b"}
+{"ts_ms": 1771997703334, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "PEERS_LIST", "msg_id": "05d634f2-604f-4fe2-898f-54aa0e4a8c69"}
+{"ts_ms": 1771997703345, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13008", "msg_type": "GET_PEERS", "msg_id": "e37ef8e0-da77-4703-8774-29a3b30a049e"}
+{"ts_ms": 1771997703345, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PEERS_LIST", "msg_id": "daa86ccf-4601-48f7-8bec-e2f708ebab82"}
+{"ts_ms": 1771997703403, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13012", "msg_type": "GET_PEERS", "msg_id": "3aea1992-5df7-45bd-8610-428c513fb095"}
+{"ts_ms": 1771997703405, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13012", "msg_type": "PEERS_LIST", "msg_id": "686f34b5-9c39-4c95-bed4-17dc86471b93"}
+{"ts_ms": 1771997703448, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13019", "msg_type": "GET_PEERS", "msg_id": "e9d0ad63-bfea-4159-8229-839eb14b17f8"}
+{"ts_ms": 1771997703450, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13019", "msg_type": "PEERS_LIST", "msg_id": "c7ada7e7-fa22-471d-ad3b-8c08f68a2011"}
+{"ts_ms": 1771997703888, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13001", "msg_type": "GET_PEERS", "msg_id": "d6e66f1f-87aa-4e70-8c74-99b7ae8426fc"}
+{"ts_ms": 1771997703889, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13001", "msg_type": "PEERS_LIST", "msg_id": "7b21dc67-e6c5-4214-95f8-022bf2d22413"}
+{"ts_ms": 1771997703946, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13003", "msg_type": "GET_PEERS", "msg_id": "4f41b5fd-4103-477d-b052-9457268269a1"}
+{"ts_ms": 1771997703947, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13003", "msg_type": "PEERS_LIST", "msg_id": "af3f6398-bf3b-4623-a09b-efbbf7a59074"}
+{"ts_ms": 1771997703959, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13001", "msg_type": "GET_PEERS", "msg_id": "6fb6ef34-ab82-4436-afc4-c5ad3cbda180"}
+{"ts_ms": 1771997703960, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "GET_PEERS", "msg_id": "0e5ffcf2-f807-4075-a158-7d9db1ad1ebf"}
+{"ts_ms": 1771997703962, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "GET_PEERS", "msg_id": "a3af7d28-e002-44a8-a94c-9fc2c6e13f4e"}
+{"ts_ms": 1771997703963, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13006", "msg_type": "GET_PEERS", "msg_id": "c6da61f3-50b6-4a62-aa72-4a34ac65108b"}
+{"ts_ms": 1771997703963, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13001", "msg_type": "PEERS_LIST", "msg_id": "8cc794cb-3023-42b4-a158-0ded37c8d899"}
+{"ts_ms": 1771997703964, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "PEERS_LIST", "msg_id": "b3832f57-c8d2-49b6-b00e-ec1ea87cd11a"}
+{"ts_ms": 1771997703965, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13010", "msg_type": "PEERS_LIST", "msg_id": "b1a1501a-08e5-49bb-ad13-79dcbcd6d409"}
+{"ts_ms": 1771997703965, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13006", "msg_type": "PEERS_LIST", "msg_id": "7e41471b-4e8f-4235-81f9-eaaf2195a3fa"}
+{"ts_ms": 1771997704046, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13008", "msg_type": "GET_PEERS", "msg_id": "be5a59bb-475d-4349-94f3-3cc97fff1286"}
+{"ts_ms": 1771997704046, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PEERS_LIST", "msg_id": "f1c82fa6-bf18-4d9a-aee2-39219ac1ccb3"}
+{"ts_ms": 1771997704120, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13014", "msg_type": "GET_PEERS", "msg_id": "b6a9d7a9-64c8-406a-9cef-b23384b0e917"}
+{"ts_ms": 1771997704123, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "PEERS_LIST", "msg_id": "8a764433-b8da-45eb-b9f7-0a389f581f48"}
+{"ts_ms": 1771997704139, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13013", "msg_type": "GET_PEERS", "msg_id": "32aaded3-aebc-43f8-8b59-126c465a419b"}
+{"ts_ms": 1771997704141, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13013", "msg_type": "PEERS_LIST", "msg_id": "5ee5419b-55a5-42d5-a6b4-54bf702a6aae"}
+{"ts_ms": 1771997704151, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13018", "msg_type": "PING", "msg_id": "61601b4c-2301-4276-8856-f79618ff7b93"}
+{"ts_ms": 1771997704166, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13013", "msg_type": "PING", "msg_id": "cd44a519-fc34-4a2f-add2-22ab6f1f44d0"}
+{"ts_ms": 1771997704167, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "PING", "msg_id": "6ee9fe3e-58b8-4236-b47c-35014337d00f"}
+{"ts_ms": 1771997704169, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13018", "msg_type": "PONG", "msg_id": "7f660f2a-2970-4269-874a-091fb1f3ed06"}
+{"ts_ms": 1771997704173, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13018", "rtt_ms": 22}
+{"ts_ms": 1771997704174, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13013", "msg_type": "PONG", "msg_id": "8e20af7b-a641-48f3-909f-7aa69e476329"}
+{"ts_ms": 1771997704179, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13013", "rtt_ms": 13}
+{"ts_ms": 1771997704180, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13014", "msg_type": "PONG", "msg_id": "d8af783e-967f-4579-9620-6dab4640c5c2"}
+{"ts_ms": 1771997704181, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13014", "rtt_ms": 14}
+{"ts_ms": 1771997704238, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13008", "msg_type": "PING", "msg_id": "b755e4e1-869d-42c1-9722-63e49eb642a6"}
+{"ts_ms": 1771997704243, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PONG", "msg_id": "1f44cf36-47c9-4c93-8429-07b12c5d8cfd"}
+{"ts_ms": 1771997704601, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13000", "msg_type": "GET_PEERS", "msg_id": "88e14f04-574f-44ea-8def-35a9ef4fa8a7"}
+{"ts_ms": 1771997704603, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "PEERS_LIST", "msg_id": "06569c8a-87d7-434c-ae7c-517ca06a211b"}
+{"ts_ms": 1771997704605, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13006", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17"}
+{"ts_ms": 1771997704606, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "gossip_delivered", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 11, "origin": "injector"}
+{"ts_ms": 1771997704608, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "gossip_forwarded", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10, "fanout": 5, "targets": ["127.0.0.1:13000", "127.0.0.1:13005", "127.0.0.1:13002", "127.0.0.1:13012", "127.0.0.1:13014"]}
+{"ts_ms": 1771997704610, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13000", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10}
+{"ts_ms": 1771997704611, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13005", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10}
+{"ts_ms": 1771997704613, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10}
+{"ts_ms": 1771997704614, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13012", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10}
+{"ts_ms": 1771997704616, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17", "ttl": 10}
+{"ts_ms": 1771997704618, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13007", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17"}
+{"ts_ms": 1771997704620, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv_duplicate_gossip", "from_addr": "127.0.0.1:13007", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17"}
+{"ts_ms": 1771997704622, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13011", "msg_type": "GOSSIP", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17"}
+{"ts_ms": 1771997704623, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv_duplicate_gossip", "from_addr": "127.0.0.1:13011", "msg_id": "1b76d6d1-6e28-4fd9-85e5-303edfb38c17"}
+{"ts_ms": 1771997704652, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13003", "msg_type": "GET_PEERS", "msg_id": "a055808c-200a-4b4e-9578-f321078f3aed"}
+{"ts_ms": 1771997704653, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13003", "msg_type": "PEERS_LIST", "msg_id": "e3ac7452-c63d-40fb-858f-32baf8e704f7"}
+{"ts_ms": 1771997704664, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13012", "msg_type": "GET_PEERS", "msg_id": "e5bfded9-d78c-4e6a-a89c-dff1e0099322"}
+{"ts_ms": 1771997704682, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13009", "msg_type": "GET_PEERS", "msg_id": "6ad48268-1628-4b70-801b-f49091fb9245"}
+{"ts_ms": 1771997704682, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "GET_PEERS", "msg_id": "e746d992-428b-4b3b-a273-35274c426d1f"}
+{"ts_ms": 1771997704683, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13002", "msg_type": "GET_PEERS", "msg_id": "99729fcd-3c73-4237-bd57-0d62eaa069e6"}
+{"ts_ms": 1771997704684, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13012", "msg_type": "PEERS_LIST", "msg_id": "ec8b427b-836f-48ad-b899-ee0c3501a499"}
+{"ts_ms": 1771997704684, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13009", "msg_type": "PEERS_LIST", "msg_id": "2fa987c9-542f-43c1-9030-25ae925ce6da"}
+{"ts_ms": 1771997704686, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13014", "msg_type": "PEERS_LIST", "msg_id": "4fdd7254-50eb-495c-963f-091d588d1b7e"}
+{"ts_ms": 1771997704686, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13002", "msg_type": "PEERS_LIST", "msg_id": "d9b39c76-0b09-4277-8706-82181418309b"}
+{"ts_ms": 1771997704730, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13006", "msg_type": "GET_PEERS", "msg_id": "347c3a4d-32b5-4f70-a0a6-c90e1803323d"}
+{"ts_ms": 1771997704731, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13006", "msg_type": "PEERS_LIST", "msg_id": "4958d0f5-d360-4d08-98b5-37c2c03f5e38"}
+{"ts_ms": 1771997704742, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13010", "msg_type": "GET_PEERS", "msg_id": "79cbac0e-81d2-46a9-809b-b58edd432a5c"}
+{"ts_ms": 1771997704743, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "PEERS_LIST", "msg_id": "749ea58b-f810-463c-b96c-615ae31fa635"}
+{"ts_ms": 1771997704853, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13016", "msg_type": "GET_PEERS", "msg_id": "4714fc69-6f76-4869-9b60-c64e36f084cf"}
+{"ts_ms": 1771997704856, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13016", "msg_type": "PEERS_LIST", "msg_id": "ac07a725-5bd2-4c37-aaed-258a161888d4"}
+{"ts_ms": 1771997705153, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13019", "msg_type": "IHAVE", "msg_id": "c0f0358b-e96e-4d3a-88a8-ac5c18f9231b"}
+{"ts_ms": 1771997705155, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "IHAVE", "msg_id": "b721cb0b-9192-4960-b981-c74254c480ba"}
+{"ts_ms": 1771997705158, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13010", "msg_type": "IHAVE", "msg_id": "3b0a6b5d-037e-4d47-a88e-adf3a428dfb7"}
+{"ts_ms": 1771997705160, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13018", "msg_type": "IHAVE", "msg_id": "73934d38-eb1c-42d5-9e0f-fe928719975e"}
+{"ts_ms": 1771997705162, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ihave_broadcast", "fanout": 4, "n_ids": 1}
+{"ts_ms": 1771997705170, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13006", "msg_type": "PING", "msg_id": "28b8845e-83ff-40f6-a597-86a8ae82f084"}
+{"ts_ms": 1771997705176, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13014", "msg_type": "PING", "msg_id": "54d56be8-93c4-4b5b-bfb8-b8645fc7e404"}
+{"ts_ms": 1771997705177, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "send", "to": "127.0.0.1:13008", "msg_type": "PING", "msg_id": "800114b6-bed4-476b-a595-1ad76aecbe2f"}
+{"ts_ms": 1771997705178, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13006", "msg_type": "PONG", "msg_id": "24ff1d93-1605-4083-8a57-9b9cf85a612a"}
+{"ts_ms": 1771997705179, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13006", "rtt_ms": 9}
+{"ts_ms": 1771997705181, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "recv", "from_addr": "127.0.0.1:13014", "msg_type": "PONG", "msg_id": "cf81b319-b531-46f3-b896-cf8a351ccc1b"}
+{"ts_ms": 1771997705182, "node_id": "b5122f0f-8da8-4655-978e-c5172aed3944", "self": "127.0.0.1:13004", "event": "ping_ok", "peer": "127.0.0.1:13014", "rtt_ms": 6}
+Task exception was never retrieved
+future: <Task finished name='Task-74' coro=<GossipNode.on_datagram() done, defined at /mnt/c/users/asus/Downloads/Telegram Desktop/node.py:918> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/mnt/c/users/asus/Downloads/Telegram Desktop/node.py", line 1429, in <module>
+    asyncio.run(main())
+  File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.10/asyncio/base_events.py", line 1909, in _run_once
+    handle._run()
+  File "/usr/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/mnt/c/users/asus/Downloads/Telegram Desktop/node.py", line 936, in on_datagram
+    self.log("recv", from_addr=addr_to_str(addr), msg_type=mtype, msg_id=mid)
+  File "/mnt/c/users/asus/Downloads/Telegram Desktop/node.py", line 802, in log
+    print(json.dumps(rec, ensure_ascii=False), flush=True)
+  File "/usr/lib/python3.10/json/__init__.py", line 183, in dumps
+    def dumps(obj, *, skipkeys=False, ensure_ascii=True, check_circular=True,
+KeyboardInterrupt
