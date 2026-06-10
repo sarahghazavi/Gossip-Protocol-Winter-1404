@@ -14,21 +14,21 @@ This repository contains a **UDP-based Gossip protocol implementation** for **pe
 The project includes:
 - A runnable node implementation (`node.py`) using **asyncio** for non-blocking networking and periodic tasks.
 - A measurement pipeline to compute **convergence time** (time to reach ~95% of nodes) and **message overhead** from logs.
-- A **hybrid push/pull** extension using **IHAVE/IWANT** to reduce redundant transfers. :contentReference[oaicite:3]{index=3}
+- A **hybrid push/pull** extension using **IHAVE/IWANT** to reduce redundant transfers.
 
 ---
 
 ## ⚙️ Protocol Overview
 
 ### Message format (JSON over UDP)
-Each packet follows a common header (version, msg_id, msg_type, sender info, timestamp, ttl) plus a payload. :contentReference[oaicite:4]{index=4}
+Each packet follows a common header (version, msg_id, msg_type, sender info, timestamp, ttl) plus a payload.
 
 ### Core message types
 - **HELLO**: introduce a node and its capabilities
 - **PEERS_GET / LIST_PEERS**: discovery & neighbor list exchange
 - **PING / PONG**: periodic liveness checking + failure handling
 - **GOSSIP**: broadcast application data using **fanout** forwarding and **TTL** decay
-- *(Hybrid mode)* **IHAVE / IWANT**: pull missing message IDs and fetch only what’s needed :contentReference[oaicite:9]{index=9}
+- *(Hybrid mode)* **IHAVE / IWANT**: pull missing message IDs and fetch only what’s needed
 
 ### Reliability mechanisms
 - **Set-Seen** (bounded / LRU-style) to ignore duplicates and prevent infinite rebroadcast
@@ -70,7 +70,6 @@ python3 node.py --port 9000 --fanout 3 --ttl 8 --peer-limit 20 --ping-interval 2
 ```bash
 python3 node.py --port 9001 --bootstrap 127.0.0.1:9000
 ```
-(Parameters mirror the course requirements and the provided node CLI)
 
 ---
 
